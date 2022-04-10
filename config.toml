@@ -1,7 +1,7 @@
 baseURL = 'https://katzkawai.org/nikki01/'
 languageCode = 'ja-JP'
 title = 'わたしのサイト'
-theme = "PaperMod"
+theme = "ananke"
 canonifyurls = true
 publishDir = "docs"
 SectionPagesMenu = "main"
