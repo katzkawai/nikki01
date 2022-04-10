@@ -1,7 +1,8 @@
 ---
 title: "About"
 date: 2022-04-10T19:57:43+09:00
-draft: true
+draft: false
+menu: "main"
 ---
 
 # このサイトについて
