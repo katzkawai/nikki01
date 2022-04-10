@@ -2,5 +2,5 @@ baseURL = 'https://katzkawai.github.io/diary01/'
 languageCode = 'ja-JP'
 title = 'わたしのサイト'
 theme = "ananke"
-canonifyurls = true
+canonifyurls　= true
 publishDir = "docs"
