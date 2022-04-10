@@ -1,6 +1,0 @@
-baseURL = 'https://katzkawai.github.io/nikki01/'
-languageCode = 'ja-JP'
-title = 'わたしのサイト'
-theme = "ananke"
-canonifyurls = true
-publishDir = "docs"
