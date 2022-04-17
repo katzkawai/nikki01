@@ -49,7 +49,16 @@
     </item>
     
     <item>
-      <title>My Secon Post</title>
+      <title>My Third Post</title>
+      <link>https://katzkawai.org/nikki01/posts/my-third-post/</link>
+      <pubDate>Sun, 17 Apr 2022 10:20:57 +0900</pubDate>
+      
+      <guid>https://katzkawai.org/nikki01/posts/my-third-post/</guid>
+      <description>Actions テストしてみます。 これが３番目のポストです。</description>
+    </item>
+    
+    <item>
+      <title>My Second Post</title>
       <link>https://katzkawai.org/nikki01/posts/my_second_post/</link>
       <pubDate>Sun, 17 Apr 2022 00:00:00 +0000</pubDate>
       
