@@ -6,7 +6,17 @@
     <description>Recent content on わたしのサイト</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 17 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://katzkawai.org/nikki01/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 17 Apr 2022 10:27:32 +0900</lastBuildDate><atom:link href="https://katzkawai.org/nikki01/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My 4th Post</title>
+      <link>https://katzkawai.org/nikki01/posts/my-4th-post/</link>
+      <pubDate>Sun, 17 Apr 2022 10:27:32 +0900</pubDate>
+      
+      <guid>https://katzkawai.org/nikki01/posts/my-4th-post/</guid>
+      <description>4 ４番目のポスト
+修正を加えてみる。</description>
+    </item>
+    
     <item>
       <title>My Secon Post</title>
       <link>https://katzkawai.org/nikki01/posts/my_second_post/</link>
@@ -17,7 +27,7 @@
     </item>
     
     <item>
-      <title>About</title>
+      <title>Demo</title>
       <link>https://katzkawai.org/nikki01/demo/</link>
       <pubDate>Sat, 16 Apr 2022 19:57:43 +0900</pubDate>
       
