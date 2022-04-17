@@ -30,3 +30,5 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
+          external_repository: katzkawai/nikki01
+          cname: katzkawai.org
