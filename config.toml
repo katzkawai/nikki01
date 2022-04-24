@@ -6,7 +6,7 @@ canonifyurls = true
 publishDir = "docs"
 SectionPagesMenu = "main"
 resourceDir = "../resources"
-Paginate = 4 # this is set low for demonstrating with dummy content. Set to a higher number
+Paginate = 9 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
 
