@@ -1,6 +1,5 @@
 baseURL = 'https://katzkawai.org/nikki01/'
 languageCode = 'ja-JP'
-DefaultContentLanguage = "ja"
 title = 'わたしのサイト'
 theme = "ananke"
 canonifyurls = true
@@ -10,16 +9,6 @@ resourceDir = "../resources"
 Paginate = 4 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
-
-[languages]
-  [languages.en]
-    title = "Ananke"
-    weight = 1
-    contentDir = "content/en"
-  [languages.fr]
-    title = "Ananke Fr"
-    weight = 2
-    contentDir = "content/fr"
 
 [sitemap]
   changefreq = "monthly"
