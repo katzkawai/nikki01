@@ -1,7 +1,7 @@
 ---
 title: "My First Post"
 date: 2022-04-10T18:59:21+09:00
-tags:["あいさつ", "サンプル"]
+tags:　["あいさつ", "サンプル"]
 categories:　["日常"]
 draft: false
 ---
